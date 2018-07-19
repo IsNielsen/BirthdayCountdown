@@ -1,8 +1,9 @@
 .picker {
 	grid-column:5/8;
-	grid-row:2/4;
+	grid-row:2/3;
 	//background: purple;
 	padding-bottom:50px;
+
 
 	input{
 		font-size: 80px;
@@ -13,7 +14,7 @@
 		text-align:center;
 		border: none;
 		background-color: transparent;
-		border-bottom: 2px solid gold;
+		border-bottom: 2px solid silver;
 
 
 		&:focus {
